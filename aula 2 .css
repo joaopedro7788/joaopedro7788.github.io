@@ -1,0 +1,103 @@
+body{background-color: rgb(0, 162, 255);
+color:black
+}
+.title1{ color:rgb(65, 42, 165);}                   
+
+#capa{
+background-color: url(IMG/pexels-meruyert-gonullu-6033962\ \(1\).jpg);
+text-align:center;
+font-size: center ;
+color: darkblue;
+font-family: Verdana, Geneva, tahoma, sans-serif;
+border: 10px solid chartreuse;
+padding:rgb(0, 162, 255) 200px
+;letter-spacing:8px;
+}a:hover
+.foto2{ margin:10px  red   }
+.foto3{ margin:20px blue   }
+.foto4{ margin:30px black  }
+.foto5{ margin:40px aqua   }
+
+#topo{
+    background-color: blue;
+    height: 80px;
+    width: 100%;
+   position: fixed;
+}
+
+#logo{
+    width: 100%;
+    height: 90px;
+}
+.rodape{
+    background-color: aqua;
+    width:100%;
+    height:90px;
+}
+
+
+#logo2{
+    height: 50px;
+}
+
+#Menu{
+    list-style: none;
+    float: right;
+    padding: 20px;
+    margin-top: 70px;
+
+}
+li{
+    float: left;
+    font-size: 30px;
+    padding: 15px;
+}
+
+@media screen and(max-width:800px) {
+nav {visibility: hidden;}
+}
+
+.foto1{
+    width: 60%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.foto1, .foto2, .foto3, .foto4{
+ float: none;
+ padding: 15%;
+ padding-top: 40%;
+width: 65%;
+font: size 7vw;;
+
+
+}
+.video{
+    margin: 1%;
+    height: 35%;
+    padding-right: 80px;
+    padding-left: 8%;
+    width:70% ;
+}
+
+.icone2, .icone3, .icone4{
+    width: 25%;
+    height: 7%;
+
+}
+
+    
+
+    
